@@ -8,4 +8,9 @@
 | 11    | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](./algorithms/cpp/11_Container_with_most_water/container_with_most_water.cpp) | 中等       | 1    |
 | 15    | [三数之和](https://leetcode-cn.com/problems/3sum)            | [C++](./algorithms/cpp/15_3sum/3sum.cpp)                     | 中等       | 1    |
 | 31    | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [C++](./algorithms/cpp/31_next_permutation/next_permutation.cpp) | 中等       | 1    |
+| 33    | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [C++](algorithms/cpp/33_Search_in_rotated_sorted_array/search_in_rotated_sorted_array.cpp) | 中等       | 1    |
+| 54    | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  | [C++](algorithms/cpp/54_spiral_matrix/spiral_matrix.cpp)     | 中等       | 1    |
+| 56    | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [C++](algorithms/cpp/56_Merge_lntervals/merge_intervals.cpp) | 中等       | 1    |
+| 42    | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [C++](algorithms/cpp/42_Trapping_rain_water/trapping_rain_water.cpp) | 困难       | 1    |
+|       |                                                              |                                                              |            |      |
 
