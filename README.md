@@ -12,7 +12,7 @@
 | 54    | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  | [C++](algorithms/cpp/54_spiral_matrix/spiral_matrix.cpp)     | 中等       | 1    |
 | 56    | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [C++](algorithms/cpp/56_Merge_lntervals/merge_intervals.cpp) | 中等       | 1    |
 | 42    | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [C++](algorithms/cpp/42_Trapping_rain_water/trapping_rain_water.cpp) | 困难       | 1    |
-| 21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](https://github.com/ZhichengHuang/weekly_challenge_for_algorithm/blob/master/algorithms/cpp/21_merge_two_sorted_lists/merge_two_sorted_lists.cpp) | 简单       | 2    |
-| 203   | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | [C++](https://github.com/ZhichengHuang/weekly_challenge_for_algorithm/blob/master/algorithms/cpp/203_remove_linked_list_elements/remove_linked_list_elements.cpp) | 简单       | 2    |
+| 21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/21_merge_two_sorted_lists/merge_two_sorted_lists.cpp) | 简单       | 2    |
+| 203   | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | [C++](algorithms/cpp/203_remove_linked_list_elements/remove_linked_list_elements.cpp) | 简单       | 2    |
 |       |                                                              |                                                              |            |      |
 
