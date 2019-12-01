@@ -14,5 +14,12 @@
 | 42    | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [C++](algorithms/cpp/42_Trapping_rain_water/trapping_rain_water.cpp) | 困难       | 1    |
 | 21    | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](algorithms/cpp/21_merge_two_sorted_lists/merge_two_sorted_lists.cpp) | 简单       | 2    |
 | 203   | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | [C++](algorithms/cpp/203_remove_linked_list_elements/remove_linked_list_elements.cpp) | 简单       | 2    |
-|       |                                                              |                                                              |            |      |
+| 206   | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](algorithms/cpp/206_reverse_linked_list/reverse_linked_list.cpp) | 简单       | 2    |
+| 2     | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](algorithms/cpp/2_add_two_numbers/add_two_numbers.cpp)  | 中等       | 2    |
+| 86    | [分隔链表](https://leetcode-cn.com/problems/partition-list/) | [C++](algorithms/cpp/86_partition_list/partition_list.cpp)   | 中等       | 2    |
+| 138   | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [C++](algorithms/cpp/138_copy_list_with_random_pointer/copy_list_with_random_pointer.cpp) | 中等       | 2    |
+| 142   | [环形链表Ⅱ](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |                                                              | 中等       |      |
+| 148   | [排序链表](https://leetcode-cn.com/problems/sort-list/)      | [C++](algorithms/cpp/148_sort_list/sort_list.cpp)            | 中等       | 2    |
+| 426   | [将二叉搜素树转换为排序的双向链表](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) |                                                              | 中等       |      |
+| 25    | [K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |                                                              | 困难       |      |
 
