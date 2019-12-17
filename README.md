@@ -32,5 +32,15 @@
 | 124   | [二叉树的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++](algorithms/cpp/124_binary_tree_maximum_path_sum/binary_tree_maximum_path_sum.cpp) | 困难       | 3    |
 | 145   | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [C++](algorithms/cpp/145_binary_tree_postorder_traversal/binary_tree_postorder_traversal.cpp) | 困难       | 3    |
 | 297   | [二叉树的序列化和反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |                                                              |            |      |
+| 17    | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++](algorithms/cpp/17_Letter_combinations_phone_number/leter_combinations_phone_number.cpp) | 中等       | 4    |
+| 22    | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [C++](algorithms/cpp/22_generate_parentheses/generate_parentheses.cpp) | 中等       | 4    |
+| 46    | [全排列](https://leetcode-cn.com/problems/permutations/)     | [C++](algorithms/cpp/46_Permutations/permulations.cpp)       | 中等       | 4    |
+| 51    | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |                                                              | 中等       |      |
+| 78    | [子集](https://leetcode-cn.com/problems/subsets/)            |                                                              | 中等       |      |
+| 93    | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [C++](algorithms/cpp/93_Restore_ip_addresses/restore_ip_addresses.cpp) | 中等       | 4    |
+| 401   | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) |                                                              | 简单       |      |
+| 687   | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) |                                                              | 简单       |      |
+| 698   | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) |                                                              | 中等       |      |
+| 726   | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) |                                                              | 困难       |      |
 |       |                                                              |                                                              |            |      |
 
