@@ -36,11 +36,20 @@
 | 22    | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [C++](algorithms/cpp/22_generate_parentheses/generate_parentheses.cpp) | 中等       | 4    |
 | 46    | [全排列](https://leetcode-cn.com/problems/permutations/)     | [C++](algorithms/cpp/46_Permutations/permulations.cpp)       | 中等       | 4    |
 | 51    | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |                                                              | 中等       |      |
-| 78    | [子集](https://leetcode-cn.com/problems/subsets/)            |                                                              | 中等       |      |
+| 78    | [子集](https://leetcode-cn.com/problems/subsets/)            | [C++](algorithms/cpp/78_subsets/subsets.cpp)                 | 中等       | 4    |
 | 93    | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) | [C++](algorithms/cpp/93_Restore_ip_addresses/restore_ip_addresses.cpp) | 中等       | 4    |
 | 401   | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) |                                                              | 简单       |      |
-| 687   | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) |                                                              | 简单       |      |
-| 698   | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) |                                                              | 中等       |      |
+| 687   | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) | [C++](algorithms/cpp/687_longest_univalue_path/longest_univalue_path.cpp) | 简单       | 4    |
+| 698   | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | [C++](algorithms/cpp/698_partition_to_k_equal_sum_subsets/partition_to_k_equal_sum_subsets.cpp) | 中等       | 4    |
 | 726   | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/) |                                                              | 困难       |      |
-|       |                                                              |                                                              |            |      |
+| 101   | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [C++](algorithms/cpp/101_symmetric_tree/symmetric_tree.cpp)  | 简单       | 5    |
+| 104   | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++](algorithms/cpp/104_maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.cpp) | 简单       | 5    |
+| 108   | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](algorithms/cpp/108_convert_sorted_array_to_binary_search_tree/convert_sorted_array_to_binary_search_tree.cpp) | 简单       | 5    |
+| 105   | [从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree) | [C++](algorithms/cpp/105_construct_binary_tree_from_preorder_and_inorder_traversal/construct_binary_tre_from_preorder_and_inorder_traversal.cpp) | 中等       | 5    |
+| 109   | [有序链表转换二叉搜素树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [C++](algorithms/cpp/109_convert_sorted_list_to_binary_search_tree/convert_sorted_list_to_binary_search_tree.cpp) | 中等       | 5    |
+| 114   | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [C++](algorithms/cpp/114_flatten_binary_tree_to_linked_list/flaten_binary_tree_to_linked_list.cpp) | 中等       | 5    |
+| 116   | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [C++](algorithms/cpp/116_Populating_next_right_points_in_each_node/populating_next_right_points_in_each_node.cpp) | 中等       | 5    |
+| 199   | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |                                                              | 中等       |      |
+| 394   | [字符串的解码](https://leetcode-cn.com/problems/decode-string/) |                                                              | 中等       |      |
+| 488   | [祖玛游戏](https://leetcode-cn.com/problems/zuma-game/)      |                                                              | 困难       |      |
 
