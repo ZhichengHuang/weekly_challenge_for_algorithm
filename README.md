@@ -68,8 +68,8 @@
 | 134   | [加油站](https://leetcode-cn.com/problems/gas-station/)      | [C++](algorithms/cpp/134_gas_station/gas_station.cpp)        | 中等       | 7    |
 | 376   | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [C++](algorithms/cpp/376_wiggle_subsequence/wiggle_subsequence.cpp) | 中等       | 7    |
 | 406   | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [C++](algorithms/cpp/406_queue_reconstruction_by_height/queue_reconstruction_by_height.cpp) | 中等       | 7    |
-| 621   | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | C++                                                          | 中等       | 7    |
+| 621   | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) |                                                              | 中等       |      |
 | 714   | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |                                                              | 中等       |      |
 | 45    | [跳跃游戏Ⅱ](https://leetcode-cn.com/problems/jump-game-ii/)  |                                                              | 困难       |      |
-| 135   | [分发糖果](https://leetcode-cn.com/problems/candy/)          |                                                              | 困难       |      |
+| 135   | [分发糖果](https://leetcode-cn.com/problems/candy/)          | [C++](algorithms/cpp/135_candy/candy.cpp)                    | 困难       | 7    |
 
