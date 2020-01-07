@@ -65,9 +65,9 @@
 | 122   | [买卖股票的最佳时机Ⅱ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/122_best_time_to_buy_and_sell_stock_2/best_time_to_buy_and_sell_stock2.cpp) | 简单       | 7    |
 | 455   | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) | [C++](algorithms/cpp/455_assign_cookies/assign_cookies.cpp)  | 简单       | 7    |
 | 55    | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/)      | [C++](algorithms/cpp/55_jump_game/jump_game.cpp)             | 中等       | 7    |
-| 134   | [加油站](https://leetcode-cn.com/problems/gas-station/)      | C++                                                          | 中等       | 7    |
-| 376   | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | C++                                                          | 中等       | 7    |
-| 406   | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | C++                                                          | 中等       | 7    |
+| 134   | [加油站](https://leetcode-cn.com/problems/gas-station/)      | [C++](algorithms/cpp/134_gas_station/gas_station.cpp)        | 中等       | 7    |
+| 376   | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [C++](algorithms/cpp/376_wiggle_subsequence/wiggle_subsequence.cpp) | 中等       | 7    |
+| 406   | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [C++](algorithms/cpp/406_queue_reconstruction_by_height/queue_reconstruction_by_height.cpp) | 中等       | 7    |
 | 621   | [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | C++                                                          | 中等       | 7    |
 | 714   | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |                                                              | 中等       |      |
 | 45    | [跳跃游戏Ⅱ](https://leetcode-cn.com/problems/jump-game-ii/)  |                                                              | 困难       |      |
