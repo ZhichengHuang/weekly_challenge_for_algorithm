@@ -72,4 +72,15 @@
 | 714   | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |                                                              | 中等       |      |
 | 45    | [跳跃游戏Ⅱ](https://leetcode-cn.com/problems/jump-game-ii/)  |                                                              | 困难       |      |
 | 135   | [分发糖果](https://leetcode-cn.com/problems/candy/)          | [C++](algorithms/cpp/135_candy/candy.cpp)                    | 困难       | 7    |
+| 704   | [二分查找](https://leetcode-cn.com/problems/binary-search/)  | [C++](algorithms/cpp/704_binary_search/binary_search.cpp)    | 简单       | 8    |
+| 35    | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [C++](algorithms/cpp/35_search_insert_position/search_insert_position.cpp) | 简单       | 8    |
+| 167   | [两数之和Ⅱ-输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](algorithms/cpp/167_two_sum_ii_input_array_is_sorted/two_sum_ii_input_array_is_sorted.cpp) | 简单       | 8    |
+| 367   | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) | [C++](algorithms/cpp/367_valida_perfect_square/valida_perfect_square.cpp) | 简单       | 8    |
+| 69    | [x的平方根](https://leetcode-cn.com/problems/sqrtx/)         | [C++](algorithms/cpp/69_sqrtx/sqrtx.cpp)                     | 简单       | 8    |
+| 50    | [Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)         | [C++](algorithms/cpp/50_powx-n/powx_n.cpp)                   | 中等       | 8    |
+| 34    | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](algorithms/cpp/34_find_first_and_last_position_of_elements_in_sorted_array/find_first_and_last_position_of_elements_in_sorted_array.cpp) | 中等       | 8    |
+| 33    | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |                                                              | 中等       |      |
+| 74    | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |                                                              | 中等       |      |
+| 4     | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |                                                              | 困难       |      |
+|       |                                                              |                                                              |            |      |
 
