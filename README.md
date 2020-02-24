@@ -82,5 +82,40 @@
 | 33    | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |                                                              | 中等       |      |
 | 74    | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |                                                              | 中等       |      |
 | 4     | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |                                                              | 困难       |      |
+| 20    | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [C++](algorithms/cpp/20_valid_parentheses/valid_parentheses.cpp) | 简单       | 9    |
+| 155   | [最小栈](https://leetcode-cn.com/problems/min-stack/)        | [C++](algorithms/cpp/155_min_stack/min_stack.cpp)            | 简单       | 9    |
+| 232   | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [C++](algorithms/cpp/232_implement_queue_using_stacks/implement_queue_using_stacks.cpp) | 简单       | 9    |
+| 225   | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [C++](algorithms/cpp/225_implement_stack_using_queues/implement_stack_using_queues.cpp) | 简单       | 9    |
+| 496   | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i) | [C++](algorithms/cpp/496_next_greater_element_i/next_greater_element_i.cpp) | 简单       | 9    |
+| 503   | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii) | [C++](algorithms/cpp/503_next_greater_element_ii/next_greater_element_ii.cpp) | 中等       | 9    |
+| 150   | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) |                                                              | 中等       |      |
+| 103   | [二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | [C++](algorithms/cpp/103_binary_tree_zigzag_level_order_traversal/binary_tree_zigzag_level_order_traversal.cpp) | 中等       | 9    |
+| 173   | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator) |                                                              | 中等       |      |
+| 84    | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram) |                                                              | 困难       |      |
+| 242   | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram) | [C++](algorithms/cpp/242_valid_anagram/valid_anagram.cpp)    | 简单       | 10   |
+| 922   | [按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii) | [C++](algorithms/cpp/922_sort_array_by_parity_ii/sort_array_by_parity_ii.cpp) | 简单       | 10   |
+| 349   | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | [C++](algorithms/cpp/349_intersection_of_two_arrays/intersection_of_two_arrays.cpp) | 简单       | 10   |
+| 350   | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | [C++](algorithms/cpp/350_intersection_of_two_arrays_ii/intersection_of_two_arrays_ii.cpp) | 简单       | 10   |
+| 976   | [三角形的最大周长](https://leetcode-cn.com/problems/largest-perimeter-triangle) | [C++](algorithms/cpp/976_largest_perimeter_triangle/largest_perimeter_triangle.cpp) | 简单       | 10   |
+| 147   | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | [C++](algorithms/cpp/147_insertion_sort_list/insertion_sort_list.cpp) | 中等       | 10   |
+| 324   | [摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) |                                                              | 中等       |      |
+| 179   | [最大数](https://leetcode-cn.com/problems/largest-number)    | [C++](algorithms/cpp/179_largest_number/largest_number.cpp)  | 中等       | 10   |
+| 973   | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin) |                                                              | 中等       |      |
+| 493   | [翻转对](https://leetcode-cn.com/problems/reverse-pairs)     |                                                              | 困难       |      |
+| 1290  | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer) | [C++](algorithms/cpp/1290_convert_binary_number_in_a_linked_list_to_integer/convert_binary_number_in_a_linked_list_to_integer.cpp) | 简单       | 11   |
+| 191   | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) | [C++](algorithms/cpp/191_number_of_1_bits/number_of_1_bits.cpp) | 简单       | 11   |
+| 169   | [多数元素](https://leetcode-cn.com/problems/majority-element) | [C++](algorithms/cpp/169_majority_element/majority_element.cpp) | 简单       | 11   |
+| 231   | [2的幂](https://leetcode-cn.com/problems/power-of-two)       | [C++](algorithms/cpp/231_power_of_tw/power_of_tw.cpp)        | 简单       | 11   |
+| 136   | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | [C++](algorithms/cpp/136_single_number/single_number.cpp)    | 简单       | 11   |
+| 137   | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) |                                                              | 中等       |      |
+| 260   | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii) |                                                              | 中等       |      |
+| 461   | [汉明距离](https://leetcode-cn.com/problems/hamming-distance) | [C++](algorithms/cpp/461_hamming_distance/hamming_distance.cpp) | 简单       | 11   |
+| 477   | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance) | [C++](algorithms/cpp/477_total_hamming_distance/total_hamming_distance.cpp) | 中等       | 11   |
+| 388   | [比特位计数](https://leetcode-cn.com/problems/counting-bits) |                                                              | 中等       |      |
 |       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+
+
+
+
 
