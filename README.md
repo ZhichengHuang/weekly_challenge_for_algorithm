@@ -116,9 +116,9 @@
 | 27    | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [C++](algorithms/cpp/27_remove_element/remove_element.cpp)   | 简单       | 12   |
 | 26    | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [C++](algorithms/cpp/26_remove_duplicates_from_sorted_array/remove_duplicates_from_sorted_array.cpp) | 简单       | 12   |
 | 80    | [删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/) | [C++](algorithms/cpp/80_remove_duplicates_from_sorted_array_ii/remove_duplicates_from_sorted_array_ii.cpp) | 中等       | 12   |
-| 16    | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) |                                                              | 中等       |      |
-| 18    | [四数之和](https://leetcode-cn.com/problems/4sum/)           |                                                              | 中等       |      |
-| 59    | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) |                                                              | 中等       |      |
+| 16    | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [C++](algorithms/cpp/16_3sum_closest/3sum_closest.cpp)       | 中等       | 12   |
+| 18    | [四数之和](https://leetcode-cn.com/problems/4sum/)           | [C++](algorithms/cpp/18_4sum/4sum.cpp)                       | 中等       | 12   |
+| 59    | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [C++](algorithms/cpp/59_spiral_matrix_ii/spiral_matrix_ii.cpp) | 中等       | 12   |
 | 48    | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)   |                                                              | 中等       |      |
 | 41    | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |                                                              | 困难       |      |
 | 57    | [插入区间](https://leetcode-cn.com/problems/insert-interval/) |                                                              | 困难       |      |
