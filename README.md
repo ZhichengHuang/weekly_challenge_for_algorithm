@@ -122,6 +122,18 @@
 | 48    | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)   |                                                              | 中等       |      |
 | 41    | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |                                                              | 困难       |      |
 | 57    | [插入区间](https://leetcode-cn.com/problems/insert-interval/) |                                                              | 困难       |      |
+| 876   | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [C++](algorithms/cpp/876_middle_of_the_linked_list/middle_of_the_linked_list.cpp) | 简单       | 13   |
+| 141   | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](algorithms/cpp/141_linked_list_cycle/linked_list_cycle.cpp) | 简单       | 13   |
+| 234   | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [C++](algorithms/cpp/234_palindrome_linked_list/palindrome_lined_list.cpp) | 简单       | 13   |
+| 237   | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](algorithms/cpp/237_delete_node_in_a_linked_list/delete_node_in_a_linked_list.cpp) | 简单       | 13   |
+| 147   | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [C++](algorithms/cpp/147_insertion_sort_list/insertion_sort_list.cpp) | 中等       | 13   |
+| 19    | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [C++](algorithms/cpp/19_remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.cpp) | 中等       | 13   |
+| 82    | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [C++](algorithms/cpp/82_remove_duplicates_from_from_sorted_list_ii/remove_duplicates_from_from_sorted_list_ii.cpp) | 中等       | 13   |
+| 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++](algorithms/cpp/24_swap_nodes_in_pairs/swap_nodes_in_pairs.cpp) | 中等       | 13   |
+| 61    | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    |                                                              | 中等       |      |
+| 23    | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |                                                              | 困难       |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
 
