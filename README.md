@@ -132,7 +132,16 @@
 | 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++](algorithms/cpp/24_swap_nodes_in_pairs/swap_nodes_in_pairs.cpp) | 中等       | 13   |
 | 61    | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    |                                                              | 中等       |      |
 | 23    | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) |                                                              | 困难       |      |
-|       |                                                              |                                                              |            |      |
+| 235   | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++](algorithms/cpp/235_lowest_common_ancestor_of_a_binary_search_tree/lowest_common_ancestor_of_a_binary_search_tree.cpp) | 简单       | 14   |
+| 111   | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [C++](algorithms/cpp/111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.cpp) | 简单       | 14   |
+| 110   | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [C++](algorithms/cpp/110_balanced_binary_tree/balanced_binary_tree.cpp) | 简单       | 14   |
+| 98    | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [C++](algorithms/cpp/98_validate_binary_search_tree/validate_binary_search_tree.cpp) | 中等       | 14   |
+| 96    | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | C++                                                          | 中等       | 14   |
+| 102   | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | C++                                                          | 中等       | 14   |
+| 106   | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | C++                                                          | 中等       | 14   |
+| 117   | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) |                                                              | 中等       |      |
+| 230   | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) |                                                              | 中等       |      |
+| 99    | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |                                                              | 中等       |      |
 |       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
