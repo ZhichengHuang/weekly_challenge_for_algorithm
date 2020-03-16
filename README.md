@@ -136,9 +136,9 @@
 | 111   | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [C++](algorithms/cpp/111_minimum_depth_of_binary_tree/minimum_depth_of_binary_tree.cpp) | 简单       | 14   |
 | 110   | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | [C++](algorithms/cpp/110_balanced_binary_tree/balanced_binary_tree.cpp) | 简单       | 14   |
 | 98    | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [C++](algorithms/cpp/98_validate_binary_search_tree/validate_binary_search_tree.cpp) | 中等       | 14   |
-| 96    | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | C++                                                          | 中等       | 14   |
-| 102   | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | C++                                                          | 中等       | 14   |
-| 106   | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | C++                                                          | 中等       | 14   |
+| 96    | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [C++](algorithms/cpp/96_unique_binary_search_trees/unique_binary_serach_trees.cpp) | 中等       | 14   |
+| 102   | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [C++](algorithms/cpp/102_binary_tree_level_order_traversal/binary_tree_level_order_traversal.cpp) | 中等       | 14   |
+| 106   | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [C++](algorithms/cpp/106_construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.cpp) | 中等       | 14   |
 | 117   | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) |                                                              | 中等       |      |
 | 230   | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) |                                                              | 中等       |      |
 | 99    | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |                                                              | 中等       |      |
