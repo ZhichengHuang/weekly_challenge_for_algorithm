@@ -142,6 +142,16 @@
 | 117   | [填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) |                                                              | 中等       |      |
 | 230   | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) |                                                              | 中等       |      |
 | 99    | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |                                                              | 中等       |      |
+| 784   | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) | [C++](algorithms/cpp/784_letter_case_permutation/letter_case_permutation.cpp) | 简单       | 15   |
+| 39    | [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [C++](algorithms/cpp/39_combination_sum/combination_sum.cpp) | 中等       | 15   |
+| 40    | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [C++](algorithms/cpp/40_combination_sum_ii/combination_sum_ii.cpp) | 中等       | 15   |
+| 79    | [单词搜索](https://leetcode-cn.com/problems/word-search/)    |                                                              | 中等       |      |
+| 89    | [格雷编码](https://leetcode-cn.com/problems/gray-code/)      | [C++](algorithms/cpp/89_gray_code/gray_code.cpp)             | 中等       | 15   |
+| 90    | [子集 II](https://leetcode-cn.com/problems/subsets-ii/)      | [C++](algorithms/cpp/90_subsets_ii/subsets_ii.cpp)           | 中等       | 15   |
+| 77    | [组合](https://leetcode-cn.com/problems/combinations/)       | [C++](algorithms/cpp/77_combinations/combinations.cpp)       | 中等       | 15   |
+| 47    | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](algorithms/cpp/47_permutations-ii/permutations-ii.cpp) | 中等       | 15   |
+| 60    | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) |                                                              | 中等       |      |
+| 10    | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) |                                                              | 困难       |      |
 |       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
