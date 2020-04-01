@@ -152,7 +152,16 @@
 | 47    | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](algorithms/cpp/47_permutations-ii/permutations-ii.cpp) | 中等       | 15   |
 | 60    | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) |                                                              | 中等       |      |
 | 10    | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) |                                                              | 困难       |      |
-|       |                                                              |                                                              |            |      |
+| 994   | [ 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [C++](algorithms/cpp/994_rotting_oranges/rotting_oranges.cpp) | 简单       | 16   |
+| 733   | [图像渲染](https://leetcode-cn.com/problems/flood-fill/)     |                                                              | 简单       |      |
+| 559   | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [C++](algorithms/cpp/559_maximum_depth_of_n_ary_tree/maximum_depth_of_n_ary_tree.cpp) | 简单       | 16   |
+| 513   | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | [C++](algorithms/cpp/513_find_bottom_left_tree_value/find_bottom_left_tree_value.cpp) | 中等       | 16   |
+| 515   | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [C++](algorithms/cpp/515_find-largest-value-in-each-tree-row/find-largest-value-in-each-tree-row.cpp) | 中等       | 16   |
+| 743   | [网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/) |                                                              | 中等       |      |
+| 210   | [课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) | [C++](algorithms/cpp/210_course-schedule-ii/course-schedule-ii.cpp) | 中等       | 16   |
+| 200   | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [C++](algorithms/cpp/200_number-of-islands/number-of-islands.cpp) | 中等       | 16   |
+| 130   | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](algorithms/cpp/130_surrounded-regions/surrounded-regions.cpp) | 中等       | 16   |
+| 542   | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/)       |                                                              | 中等       |      |
 |       |                                                              |                                                              |            |      |
 
 
