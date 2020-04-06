@@ -162,7 +162,16 @@
 | 200   | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [C++](algorithms/cpp/200_number-of-islands/number-of-islands.cpp) | 中等       | 16   |
 | 130   | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) | [C++](algorithms/cpp/130_surrounded-regions/surrounded-regions.cpp) | 中等       | 16   |
 | 542   | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/)       |                                                              | 中等       |      |
-|       |                                                              |                                                              |            |      |
+| 520   | [检测大写字母](https://leetcode-cn.com/problems/detect-capital/) | [C++](algorithms/cpp/520_detect-capital/detect-capital.cpp)  | 简单       | 17   |
+| 344   | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++](algorithms/cpp/344_reverse-string/reverse-string.cpp)  | 简单       | 17   |
+| 557   | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++](algorithms/cpp/557_reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.cpp) | 简单       | 17   |
+| 345   | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) | [C++](algorithms/cpp/345_reverse-vowels-of-a-string/reverse-vowels-of-a-string.cpp) | 简单       | 17   |
+| 541   | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/) | [C++](algorithms/cpp/541_reverse-string-ii/reverse-string-ii.cpp) | 简单       | 17   |
+| 151   | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [C++](algorithms/cpp/151_reverse-words-in-a-string/reverse-words-in-a-string.cpp) | 中等       | 17   |
+| 227   | [基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) |                                                              | 中等       |      |
+| 433   | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) |                                                              | 中等       |      |
+| 583   | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) |                                                              | 中等       |      |
+| 791   | [自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string/) | [C++](algorithms/cpp/791_custom-sort-string/custom-sort-string.cpp) | 中等       | 17   |
 
 
 
