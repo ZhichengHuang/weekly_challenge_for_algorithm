@@ -172,6 +172,17 @@
 | 433   | [最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/) |                                                              | 中等       |      |
 | 583   | [两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/) |                                                              | 中等       |      |
 | 791   | [自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string/) | [C++](algorithms/cpp/791_custom-sort-string/custom-sort-string.cpp) | 中等       | 17   |
+| 509   | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [C++](algorithms/cpp/509_fibonacci_number/fibonacci-number.cpp) | 简单       | 18   |
+| 264   | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)  | [C++](algorithms/cpp/264_ugly-number-ii/ugly-number-ii.cpp)  | 中等       | 18   |
+| 152   | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [C++](algorithms/cpp/152_maximum-product-subarray/ maximum-product-subarray.cpp) | 中等       | 18   |
+| 198   | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [C++](algorithms/cpp/198_house_robber/house_robber.cpp)      | 简单       | 18   |
+| 213   | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](algorithms/cpp/213_house-robber-ii/house-robber-ii.cpp) | 中等       | 18   |
+| 337   | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [C++](algorithms/cpp/337_house-robber-iii/house-robber-iii.cpp) | 中等       | 18   |
+| 121   | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [C++](algorithms/cpp/121_BuySellStock/BuySellStock.cpp)      | 简单       | 18   |
+| 122   | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/122_best_time_to_buy_and_sell_stock_2/best_time_to_buy_and_sell_stock2.cpp) | 简单       | 18   |
+| 123   | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](algorithms/cpp/123_best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.cpp) | 困难       | 18   |
+| 188   | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) |                                                              | 困难       |      |
+|       |                                                              |                                                              |            |      |
 
 
 
