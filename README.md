@@ -174,7 +174,7 @@
 | 791   | [自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string/) | [C++](algorithms/cpp/791_custom-sort-string/custom-sort-string.cpp) | 中等       | 17   |
 | 509   | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) | [C++](algorithms/cpp/509_fibonacci_number/fibonacci-number.cpp) | 简单       | 18   |
 | 264   | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)  | [C++](algorithms/cpp/264_ugly-number-ii/ugly-number-ii.cpp)  | 中等       | 18   |
-| 152   | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [C++](algorithms/cpp/152_maximum-product-subarray/ maximum-product-subarray.cpp) | 中等       | 18   |
+| 152   | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [C++](algorithms/cpp/152_maximum-product-subarray/maximum-product-subarray.cpp) | 中等       | 18   |
 | 198   | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   | [C++](algorithms/cpp/198_house_robber/house_robber.cpp)      | 简单       | 18   |
 | 213   | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) | [C++](algorithms/cpp/213_house-robber-ii/house-robber-ii.cpp) | 中等       | 18   |
 | 337   | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [C++](algorithms/cpp/337_house-robber-iii/house-robber-iii.cpp) | 中等       | 18   |
