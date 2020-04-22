@@ -182,6 +182,17 @@
 | 122   | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](algorithms/cpp/122_best_time_to_buy_and_sell_stock_2/best_time_to_buy_and_sell_stock2.cpp) | 简单       | 18   |
 | 123   | [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](algorithms/cpp/123_best-time-to-buy-and-sell-stock-iii/best-time-to-buy-and-sell-stock-iii.cpp) | 困难       | 18   |
 | 188   | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) |                                                              | 困难       |      |
+| 844   | [比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](algorithms/cpp/844_backspace-string-compare/backspace-string-compare.cpp) | 简单       | 19   |
+| 682   | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/)  | [C++](algorithms/cpp/682_baseball-game/baseball-game.cpp)    | 简单       | 19   |
+| 385   | [迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/) |                                                              | 中等       |      |
+| 341   | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [C++](algorithms/cpp/341_flatten-nested-list-iterator/flatten-nested-list-iterator.cpp) | 中等       | 19   |
+| 975   | [奇偶跳](https://leetcode-cn.com/problems/odd-even-jump/)    |                                                              | 困难       |      |
+| 1047  | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](algorithms/cpp/1047_remove-all-adjacent-duplicates-in-string/remove-all-adjacent-duplicates-in-string.cpp) | 简单       | 19   |
+| 690   | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) | [C++](algorithms/cpp/690_employee-importance/employee-importance.cpp) | 简单       | 19   |
+| 71    | [简化路径](https://leetcode-cn.com/problems/simplify-path/)  | [C++](algorithms/cpp/71_simplify-path/simplify-path.cpp)     | 中等       | 19   |
+| 921   | [括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](algorithms/cpp/921_minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | 中等       | 19   |
+| 224   | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) |                                                              | 困难       |      |
+|       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
 
