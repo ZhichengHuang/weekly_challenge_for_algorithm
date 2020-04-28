@@ -192,6 +192,17 @@
 | 71    | [简化路径](https://leetcode-cn.com/problems/simplify-path/)  | [C++](algorithms/cpp/71_simplify-path/simplify-path.cpp)     | 中等       | 19   |
 | 921   | [括号有效的最少添加](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [C++](algorithms/cpp/921_minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.cpp) | 中等       | 19   |
 | 224   | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) |                                                              | 困难       |      |
+| 1030  | [距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [C++](algorithms/cpp/1030_matrix-cells-in-distance-order/matrix-cells-in-distance-order.cpp) | 简单       | 20   |
+| 1122  | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) | [C++](algorithms/cpp/1122_relative-sort-array/relative-sort-array.cpp) | 简单       | 20   |
+| 1370  | [上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [C++](algorithms/cpp/1370_increasing-decreasing-string/increasing-decreasing-string.cpp) | 简单       | 20   |
+| 1356  | [根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [C++](algorithms/cpp/1356_sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.cpp) | 简单       | 20   |
+| 524   | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) |                                                              | 中等       |      |
+| 767   | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | [C++](algorithms/cpp/767_reorganize-string/reorganize-string.cpp) | 中等       | 20   |
+| 853   | [车队](https://leetcode-cn.com/problems/car-fleet/)          | [C++](algorithms/cpp/853_car-fleet/car-fleet.cpp)            | 中等       | 20   |
+| 969   | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | [C++](algorithms/cpp/969_pancake-sorting/pancake-sorting.cpp) | 中等       | 20   |
+| 710   | [黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist/) |                                                              | 困难       |      |
+| 327   | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) |                                                              | 困难       |      |
+| 190   | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | C++                                                          | 简单       | 21   |
 |       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
