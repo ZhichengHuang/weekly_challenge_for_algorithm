@@ -202,7 +202,19 @@
 | 969   | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting/) | [C++](algorithms/cpp/969_pancake-sorting/pancake-sorting.cpp) | 中等       | 20   |
 | 710   | [黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist/) |                                                              | 困难       |      |
 | 327   | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) |                                                              | 困难       |      |
-| 190   | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | C++                                                          | 简单       | 21   |
+| 190   | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) | [C++](algorithms/cpp/190_reverse-bits/reverse-bits.cpp)      | 简单       | 21   |
+| 342   | [4的幂](https://leetcode-cn.com/problems/power-of-four/)     | [C++](algorithms/cpp/342_power-of-four/power-of-four.cpp)    | 简单       | 21   |
+| 389   | [找不同](https://leetcode-cn.com/problems/find-the-difference/) | [C++](algorithms/cpp/389_find-the-difference/find-the-difference.cpp) | 简单       | 21   |
+| 371   | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) | [C++](algorithms/cpp/371_sum-of-two-integers/sum-of-two-integers.cpp) | 简单       | 21   |
+| 405   | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [C++](algorithms/cpp/405_convert-a-number-to-hexadecimal/convert-a-number-to-hexadecimal.cpp) | 简单       | 21   |
+| 187   | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) |                                                              | 中等       |      |
+| 318   | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [C++](algorithms/cpp/318_maximum-product-of-word-lengths/maximum-product-of-word-lengths.cpp) | 中等       | 21   |
+| 397   | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [C++](algorithms/cpp/342_power-of-four/power-of-four.cpp)    | 中等       | 21   |
+| 421   | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) |                                                              | 中等       |      |
+| 1125  | [最小的必要团队](https://leetcode-cn.com/problems/smallest-sufficient-team/) |                                                              | 困难       |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
