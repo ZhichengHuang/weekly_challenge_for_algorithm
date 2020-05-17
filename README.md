@@ -212,11 +212,16 @@
 | 397   | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) | [C++](algorithms/cpp/342_power-of-four/power-of-four.cpp)    | 中等       | 21   |
 | 421   | [数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) |                                                              | 中等       |      |
 | 1125  | [最小的必要团队](https://leetcode-cn.com/problems/smallest-sufficient-team/) |                                                              | 困难       |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
+| 561   | [数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | [C++](algorithms/cpp/561_array-partition-i/array-partition-i.cpp) | 简单       | 22   |
+| 1010  | [总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [C++](algorithms/cpp/1010_pairs-of-songs-with-total-durations-divisible-by-60/pairs-of-songs-with-total-durations-divisible-by-60.cpp) | 简单       | 22   |
+| 1013  | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [C++](algorithms/cpp/1013_partition-array-into-three-parts-with-equal-sum/partition-array-into-three-parts-with-equal-sum.cpp) | 简单       | 22   |
+| 1018  | [可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [C++](algorithms/cpp/1018_binary-prefix-divisible-by-5/binary-prefix-divisible-by-5.cpp) | 简单       | 22   |
+| 16    | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [C++](algorithms/cpp/16_3sum_closest/3sum_closest.cpp)       | 中等       | 22   |
+| 1011  | [在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [C++](algorithms/cpp/1011_capacity-to-ship-packages-within-d-days/capacity-to-ship-packages-within-d-days.cpp) | 中等       | 22   |
+| 1014  | [最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/) | [C++](algorithms/cpp/1014_best-sightseeing-pair/best-sightseeing-pair.cpp) | 中等       | 22   |
+| 1277  | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) |                                                              | 中等       |      |
+| 128   | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [C++](algorithms/cpp/128_longest-consecutive-sequence/longest-consecutive-sequence.cpp) | 困难       | 22   |
+| 154   | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) |                                                              |            |      |
 
 
 
