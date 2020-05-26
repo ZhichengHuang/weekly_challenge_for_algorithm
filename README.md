@@ -222,6 +222,18 @@
 | 1277  | [统计全为 1 的正方形子矩阵](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones/) |                                                              | 中等       |      |
 | 128   | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [C++](algorithms/cpp/128_longest-consecutive-sequence/longest-consecutive-sequence.cpp) | 困难       | 22   |
 | 154   | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) |                                                              |            |      |
+| 83    | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [C++](algorithms/cpp/83_remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.cpp) | 简单       | 23   |
+| 1486  | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) | [C++](algorithms/cpp/1486_delete-middle-node-lcci/delete-middle-node-lcci.cpp) | 简单       | 23   |
+| 160   | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [C++](algorithms/cpp/160_intersection-of-two-linked-lists/intersection-of-two-linked-lists.cpp) | 简单       | 23   |
+| 1600  | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [C++](algorithms/cpp/1600_shan-chu-lian-biao-de-jie-dian-lcof/shan-chu-lian-biao-de-jie-dian-lcof.cpp) | 简单       | 23   |
+| 1019  | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) | [C++](algorithms/cpp/1019_next-greater-node-in-linked-lis/next-greater-node-in-linked-lis.cpp) | 中等       | 23   |
+| 24    | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [C++](algorithms/cpp/24_swap_nodes_in_pairs/swap_nodes_in_pairs.cpp) | 中等       | 23   |
+| 142   | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](algorithms/cpp/142_linked-list-cycle-ii/linked-list-cycle-ii.cpp) | 中等       | 23   |
+| 143   | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   |                                                              | 中等       |      |
+| 328   | [偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/328_odd-even-linked-list/odd-even-linked-list.cpp) | 中等       | 23   |
+| 817   | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) |                                                              | 中等       |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
 
 
 
