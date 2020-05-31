@@ -232,6 +232,15 @@
 | 143   | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   |                                                              | 中等       |      |
 | 328   | [偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [C++](algorithms/cpp/328_odd-even-linked-list/odd-even-linked-list.cpp) | 中等       | 23   |
 | 817   | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) |                                                              | 中等       |      |
+| 1502  | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | [C++](algorithms/cpp/1502_check-balance-lcci/check-balance-lcci.cpp) | 简单       | 24   |
+| 530   | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [C++](algorithms/cpp/530_minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.cpp) | 简单       | 24   |
+| 538   | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [C++](algorithms/cpp/538_convert-bst-to-greater-tree/convert-bst-to-greater-tree.cpp) | 简单       | 24   |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
+|       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 |       |                                                              |                                                              |            |      |
 
