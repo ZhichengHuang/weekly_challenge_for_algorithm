@@ -235,13 +235,13 @@
 | 1502  | [检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/) | [C++](algorithms/cpp/1502_check-balance-lcci/check-balance-lcci.cpp) | 简单       | 24   |
 | 530   | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [C++](algorithms/cpp/530_minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.cpp) | 简单       | 24   |
 | 538   | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [C++](algorithms/cpp/538_convert-bst-to-greater-tree/convert-bst-to-greater-tree.cpp) | 简单       | 24   |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
-|       |                                                              |                                                              |            |      |
+| 1022  | [从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) | [C++](algorithms/cpp/1022_sum-of-root-to-leaf-binary-numbers/sum-of-root-to-leaf-binary-numbers.cpp) | 简单       | 24   |
+| 1511  | [合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | [C++](algorithms/cpp/1511_legal-binary-search-tree-lcci/legal-binary-search-tree-lcci.cpp) | 中等       | 24   |
+| 1512  | [后继者](https://leetcode-cn.com/problems/successor-lcci/)   | [C++](algorithms/cpp/1512_successor-lcci/successor-lcci.cpp) | 中等       | 24   |
+| 1513  | [首个共同祖先](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | [C++](algorithms/cpp/1513_first-common-ancestor-lcci/first-common-ancestor-lcci.cpp) | 中等       | 24   |
+| 1026  | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) |                                                              | 中等       |      |
+| 1028  | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |                                                              | 困难       |      |
+| 834   | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) |                                                              | 困难       |      |
 |       |                                                              |                                                              |            |      |
 
 
