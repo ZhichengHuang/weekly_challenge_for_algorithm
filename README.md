@@ -242,6 +242,16 @@
 | 1026  | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) |                                                              | 中等       |      |
 | 1028  | [从先序遍历还原二叉树](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal/) |                                                              | 困难       |      |
 | 834   | [树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree/) |                                                              | 困难       |      |
+| 1533  | [幂集](https://leetcode-cn.com/problems/power-set-lcci/)     | [C++](algorithms/cpp/1533_power-set-lcci/power-set-lcci.cpp) | 中等       | 25   |
+| 1547  | [有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci/) | [C++](algorithms/cpp/1547_permutation-ii-lcci/permutation-ii-lcci.cpp) | 中等       | 25   |
+| 216   | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [C++](algorithms/cpp/216_combination-sum-iii/combination-sum-iii.cpp) | 中等       | 25   |
+| 306   | [累加数](https://leetcode-cn.com/problems/additive-number/)  | [C++](algorithms/cpp/306_additive-number/additive-number.cpp) | 中等       | 25   |
+| 357   | [计算各个位数不同的数字个数](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [C++](algorithms/cpp/357_count-numbers-with-unique-digits/count-numbers-with-unique-digits.cpp) | 中等       | 25   |
+| 842   | [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) |                                                              | 中等       |      |
+| 1079  | [活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [C++](algorithms/cpp/1079_letter-tile-possibilities/letter-tile-possibilities.cpp) | 中等       | 25   |
+| 1219  | [黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold/) |                                                              | 中等       |      |
+| 1551  | [八皇后](https://leetcode-cn.com/problems/eight-queens-lcci/) | [C++](algorithms/cpp/1551_eight-queens-lcci/eight-queens-lcci.cpp) | 困难       | 25   |
+| 691   | [贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word/) |                                                              | 困难       |      |
 |       |                                                              |                                                              |            |      |
 
 
